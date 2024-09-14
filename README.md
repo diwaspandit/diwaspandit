@@ -1,4 +1,4 @@
-Hi there, I'm Diwas Pandit 👋
+### Hi there, I'm Diwas Pandit 👋
 
 🔭 I’m currently working on Full Stack Development and AI projects.
 🌱 I’m learning and growing as a Full Stack Developer with a focus on the MERN stack.
